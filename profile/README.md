@@ -2,7 +2,7 @@
 
 Paladin brings true programmable privacy to the world's most popular smart contract platform.
 
-![Paladin](doc-site/docs/images/paladin_overview.svg)
+![Paladin](https://github.com/LFDT-Paladin/paladin/blob/main/doc-site/docs/images/paladin_overview.svg)
 
 ## Oct 2025 Update - V1 Release Preparation
 
@@ -18,7 +18,7 @@ for more details on Paladin.
 Join the discussion in the "paladin" channel on the
 Linux Foundation Decentralized Trust [Discord server](https://discord.com/channels/905194001349627914/1303371167020879903).
 
-![Paladin](doc-site/docs/images/paladin_runtime.svg)
+![Paladin](https://github.com/LFDT-Paladin/paladin/blob/main/doc-site/docs/images/paladin_runtime.svg)
 
 ## Getting started with Paladin
 
@@ -26,7 +26,7 @@ Get a 3-node Paladin network running with Besu on your laptop with the
 [Getting Started](https://LFDT-Paladin.github.io/paladin/head/getting-started/installation)
 guide.
 
-![Paladin](doc-site/docs/images/paladin_deployment.svg)
+![Paladin](https://github.com/LFDT-Paladin/paladin/blob/main/doc-site/docs/images/paladin_deployment.svg)
 
 ## Development
 
