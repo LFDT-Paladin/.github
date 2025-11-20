@@ -9,7 +9,7 @@ Any additional links useful to the team. For example, meetings, events, training
 -->
 ## Useful References
 
- - [Paladin Documentation Wesite](https://lfdt-paladin.github.io/paladin/head/)
+ - [Paladin Documentation Website](https://lfdt-paladin.github.io/paladin/head/)
    
 <!---
 About Project information needs to be comprehensive and useful for new members to be able to understand its goals. 
@@ -49,4 +49,4 @@ Reference to the Maintainers file and end users information.
 
 ## License
 
-- **Apache License, Version 2.0 (Apache-2.0)**[Apache License 2.0](LICENSE.md)
+- **Apache License, Version 2.0 (Apache-2.0)** [Apache License 2.0](LICENSE.md)
