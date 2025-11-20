@@ -1,8 +1,6 @@
 # .github
 
-<!---
-TODO: Need to add CII Best Practices badge
--->
+[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/11486/badge)](https://bestpractices.coreinfrastructure.org/projects/11486)
 [![License](https://img.shields.io/badge/license-apache2-blue.svg)](LICENSE.md)
 <!---
 Any additional links useful to the team. For example, meetings, events, training material, etc.
